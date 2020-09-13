@@ -4,4 +4,5 @@
   "viewportHeight": 800,
   "testFiles": "**/99-testing-application/*.js",
   "$schema": "https://on.cypress.io/cypress.schema.json"
+  "projectId": "9jr27e"
 }
